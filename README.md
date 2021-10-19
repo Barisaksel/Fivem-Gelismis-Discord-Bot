@@ -1,2 +1,2 @@
-# Fivem-Geli-mi-Discord-Bot
+# Fivem-Gelismis-Discord-Bot
 Fivem Gelişmiş RolePlay Discord Botu
