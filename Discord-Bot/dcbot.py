@@ -175,7 +175,7 @@ async def whver(ctx, wh = None, user: discord.User=None):
             db.commit()
 
             print(mycursor.rowcount, "Whitelist Girildi.")
-            await ctx.send(f'{wh} , Whitelist Girildi')
+            await ctx.message.add_reaction(u"✅")
 
 #Whitelist Hex İle Silme
 @client.command()
