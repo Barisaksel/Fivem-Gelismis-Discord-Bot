@@ -3,7 +3,8 @@ Fivem Gelişmiş RolePlay Discord Botu
 
 KURULUM:
 
-1) requirements.txt'De Bulunan Modülleri Yükleyiniz.
+
+1) requirements.txt'De Bulunan Modülleri Yükleyiniz. ( pip install modülismi şeklinde indriniz! )
 2) dcbot.py Dosyasını visual code vb programlarla açınız config bölümünü kendi discord serverınıza göre editleyiniz.
 3) dcbot.py Dosyasını başlatıp Keyfini Çıkarabilirsiniz!
 
